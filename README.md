@@ -1,7 +1,6 @@
 # RelTrend
 
-Implementing the random person tiktok trend in Go
-
+Implementing the I'm in love with tiktok trend in Go (because I'm bored)
 
 ## Setup
 

@@ -52,7 +52,7 @@ func main() {
 		Align(lipgloss.Center).
 		Italic(true)
 	// Render the components
-	title := titleStyle.Render("Random Guy/Girl TikTok Trend")
+	title := titleStyle.Render("I'm in Love with")
 
 	// Print everything to the terminal
 	fmt.Println(title)
