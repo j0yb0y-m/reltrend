@@ -7,3 +7,8 @@ run: build
 
 clean:
 	@rm -rf bin/
+
+setup:
+	go get github.com/charmbracelet/lipgloss
+	go mod vendor
+	go mod tidy
